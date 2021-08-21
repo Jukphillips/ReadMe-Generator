@@ -38,7 +38,7 @@ function generateMarkdown(data) {
   * [Questions](#questions)
    
 
-  ## Insallation
+  ## Installation
    > ${data.install}
 
   ## Usage
@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   > ${data.test}
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly ${data.userEmail}. You can find more of my work at ${data.githubAccount}.
+  If you have any questions about the repo, open an issue or contact me directly ${data.userEmail}. You can find more of my work at my github account: ${data.githubAccount}.
 
  
 
